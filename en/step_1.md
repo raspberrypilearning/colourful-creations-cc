@@ -50,6 +50,7 @@ You can also find a completed version of this project's challenges in the 'Volun
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
 + [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
++ Understand the skills which are developed towards a career involving Computing
 
 + [Design basic 2D and 3D assets.](https://www.raspberrypi.org/curriculum/design/creator)
 
