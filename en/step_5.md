@@ -20,7 +20,7 @@ Here's an example:
 
 ![screenshot](images/colourful-finished.png)
 
-
+Go to the next project on the module pathway: 'Secret Messages'.
 
 
 
