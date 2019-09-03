@@ -26,3 +26,5 @@ Go to the next project on the module pathway: 'Secret Messages'.
 
 
 --- /challenge ---
+
+![progress bar](images/p1-5.png)
